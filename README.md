@@ -8,3 +8,7 @@ ZCZC W02 Mengikuti kegiatan week02 Mata Kuliah OS
 ZCZC W03 Selesai
 
 ZCZC W04 Selesai
+
+ZCZC W05 Selesai
+
+ZCZC W06 Selesai
